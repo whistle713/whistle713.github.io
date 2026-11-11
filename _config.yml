@@ -102,11 +102,11 @@ theme: matery
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
-deploy:
-  type: git
-  repo: https://github.com/whistle713/whistle713.github.io.git
-  branch: master
-  message: "Site updated: {{ now('YYYY-MM-DD HH:mm:ss') }}"
+# deploy:
+#   type: git
+#   repo: https://github.com/whistle713/whistle713.github.io.git
+#   branch: master
+#   message: "Site updated: {{ now('YYYY-MM-DD HH:mm:ss') }}"
 
 live2d:
   enable: false
